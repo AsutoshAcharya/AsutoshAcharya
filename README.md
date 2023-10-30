@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AsutoshAcharya<br>👀 I’m interested in FullStack Web Development<br>🌱 I’m currently learning React.js
+👋 Hi, I’m @AsutoshAcharya<br>👀 I’m interested in FullStack Web Development<br>🌱 I’m currently learning Tailwind CSS
 
 
 ## 🌐 Socials:
