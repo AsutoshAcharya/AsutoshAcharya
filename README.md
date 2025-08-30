@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I’m @AsutoshAcharya<br><br>## 👀 Interest<br>- Full Stack Web Development  <br>- Cross-Platform App Development (React Native)  <br><br>## 🌱 Currently Learning<br>- React Native  <br><br>## 📫 Reach Out<br>📧 Email:  asutosh246@gmail.com  
+# 👋 Hi, I’m @AsutoshAcharya<br><br>## 👀 Interest<br>- Full Stack Web Development <br><br>## 🌱 Currently Learning<br>-Moblie App Development (React Native) <br><br>## 📫 Reach Out<br>📧 Email:  asutosh246@gmail.com  
 
 
 ## 🌐 Socials:
